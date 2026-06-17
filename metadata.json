@@ -1,0 +1,6 @@
+{
+  "name": "FashionOS X Enterprise",
+  "description": "Autonomous fashion, marketing, e-commerce, and creative intelligence operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
